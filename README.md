@@ -55,76 +55,83 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ### 1. Customer Information for Marketing Team
 Retrieve customer first name, last name, and email ID.
 
-![Customer Info](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/Customer_Details.png)
-
+![Customer Info](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Customer_Details.png)
 ### 2. Count of Movies with Rental Rate of $0.99
-![Cheapest Rental](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/Rental_rate_0.99%24.png)
+![Cheapest Rental](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Rental_Rate_0.99%24.png)
 
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/TOTAL_NUMBER_OF_MOVIES.png)
+![Total Movies per Rental Rate](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Rental_Rate_Movie_Count.png)
 
 ### 4. Most Common Movie Rating
-![Rating Count](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/RATING_WISE_COUNT.png)
+![Rating Count](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Common_Movie_Rating.png)
 
 ### 5. Most Prevalent Rating per Store
-![Rating per Store](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/TOTAL_FILMS.png)
+![Rating per Store](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Prevalent_Rating.png)
 
 ### 6. List of Films by Name, Category, and Language
-![Film List](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/CATEGORY_NAME.png)
+![Film List](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Movie_category.png)
 
 ### 7. Movie Rental Frequency
-![Rental Popularity](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/POPULARITY.png)
+![Rental Popularity](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Rental_Frequency.png)
 
 ### 8. Top 10 Grossing Films
-![Revenue per Film](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/REVENUE_PER_MOVIE.png)
+![Revenue per Film](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Top10_Grossing_Film.png)
 
 ### 9. Highest Spending Customer
-![Most Spending Customer](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/MOST_SPENDING_CUSTOMER.png)
+![Most Spending Customer](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/MOST_SPENDING_CUSTOMER.png)
 
 ### 10. Store with Most Revenue
-![Highest Revenue Store](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_REVENUE.png)
+![Highest Revenue Store](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Store_With_Most_Revenue.png)
 
 ### 11. Monthly Rentals Count
-![Rentals Per Month](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/RENTALS_PER_MONTH.png)
+![Rentals Per Month](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/RENTALS_PER_MONTH.png)
 
 ### 12. Customers Eligible for Rewards
-![Reward Eligible Customers](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/REWARD_VIA_PHONE.png)
+![Reward Eligible Customers](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Reward_Customer.png)
 
 ### 13. Films with 'Behind the Scenes' Special Feature
-![Behind the Scenes Films](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/FILMS_WITH_SPECIAL_FEATURES.png)
+![Behind the Scenes Films](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Special_Features.png)
 
 ### 14. Unique Movie Ratings and Count
-![Unique Ratings](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/RATINGWISE_MOVIES.png)
+![Unique Ratings](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Common_Movie_Rating.png)
 
 ### 15. Titles Count by Rental Duration
-![Rental Duration Count](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/RENTAL_DURATIONWISE_MOVIES.png)
+![Rental Duration Count](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/RENTAL_DURATIONWISE_MOVIES.png)
 
 ### 16. Ratings, Movie Count, Length, and Rental Duration
-![Ratings and Rental Duration](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/COMPARE_LENGTH.png)
+![Ratings and Rental Duration](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Rating_Count_Length%200f%20movies.png)
 
 ### 17. Film Count by Replacement Cost with Rental Rates
-![Replacement Cost Analysis](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/RENTAL_VS_REPLACEMENT.png)
+![Replacement Cost Analysis](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Replacement_Cost.png)
 
 ### 18. Customers with Less Than 15 Rentals
-![Low Rental Customers](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/NON_LOYAL_CUSTOMERS.png)
-
+![Low Rental Customers](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Less_Than_15%20Rentals.png)
 
 ### 19. Categorization of Movies by Length
-![Movies Categorized by Length](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/RENTAL_DURATIONWISE_MOVIES.png)
+![Movies Categorized by Length](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Movie_Catogorized_by%20length.png)
 
 ### 20. Movie Recommendations by Age Group
-![Age-Based Recommendations](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/RECOMMENDATION_SYSTEM.png)
+![Age-Based Recommendations](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Movie_Recommendation_as%20per%20age.png)
 
 ### 21. Films Inventory List
-![Films in Inventory](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/FILM_INVENTORY.png)
+![Films in Inventory](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Film_Inventory.png)
 
-### 22. Actor Movie Count
-![Actor Movie Count](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/ACTORS_NUMBER_OF_FILMS.png)
+### 22. Active and Inactive Customers in Both Stores
+![Active Customers in stores](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Active_Inactive_Customers.png)
 
-### 23. Number of Actors per Film
-![Actors per Title](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/INVESTOR_REQUEST.png)
+### 23. Actor Movie Count
+![Actor Movie Count](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Actor_Movie_Count.png)
 
-### 24. List of Staff and Advisors
-![Staff and Advisors](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/CONFERENCE_LIST.png)
+### 24. Number of Actors per Film
+![Actors per Title](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Actor_per%20film.png)
+
+### 25. Favourite Actor's Film
+![Favourite Actor's Film](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Favourite_Actor.png)
+
+### 26. Distinct Film Available in Store 2
+![Distinct Movies in Store 2](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Distinct_Films_Available%20in%20store%202.png)
+
+### 27. List of Staff and Advisors
+![Staff and Advisors](https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/Code_Output/Staff%20members_and_Advisors.png)
 
 ---
