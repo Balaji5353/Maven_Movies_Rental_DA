@@ -61,7 +61,7 @@ Retrieve customer first name, last name, and email ID.
 ![Cheapest Rental](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/CHEAPEST_RENTALS.png)
 
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate]https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/TOTAL_NUMBER_OF_MOVIES.png)
+![Total Movies per Rental Rate](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/TOTAL_NUMBER_OF_MOVIES.png)
 
 ### 4. Most Common Movie Rating
 ![Rating Count](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/RATING_WISE_COUNT.png)
