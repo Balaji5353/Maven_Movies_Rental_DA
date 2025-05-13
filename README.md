@@ -58,7 +58,7 @@ Retrieve customer first name, last name, and email ID.
 ![Customer Info](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/Customer_Details.png)
 
 ### 2. Count of Movies with Rental Rate of $0.99
-![Cheapest Rental](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/CHEAPEST_RENTALS.png)
+![Cheapest Rental](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/Rental_rate_0.99%24.png)
 
 ### 3. Rental Rate Distribution and Movie Count
 ![Total Movies per Rental Rate](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/code_output/TOTAL_NUMBER_OF_MOVIES.png)
