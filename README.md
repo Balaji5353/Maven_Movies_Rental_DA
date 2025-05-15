@@ -72,7 +72,7 @@ Retrieve customer first name, last name, and email ID.
 ![Film List](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/Code_output/Movie_category.jpeg)
 
 ### 7. Movie Rental Frequency
-![Rental Popularity]https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/Code_output/Rental_Frequency.jpeg)
+![Rental Popularity](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/Code_output/Rental_Frequency.jpeg)
 
 ### 8. Top 10 Grossing Films
 ![Revenue per Film](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/Code_output/Top10_Grossing_Film.jpeg)
@@ -90,7 +90,7 @@ Retrieve customer first name, last name, and email ID.
 ![Reward Eligible Customers](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/Code_output/Reward_Customer.jpeg)
 
 ### 13. Films with 'Behind the Scenes' Special Feature
-![Behind the Scenes Films]https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/Code_output/Special_Features.jpeg)
+![Behind the Scenes Films](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/Code_output/Special_Features.jpeg)
 
 ### 14. Unique Movie Ratings and Count
 ![Unique Ratings](https://github.com/Balaji5353/Maven_Movies_Rental_DA/blob/main/Code_output/Common_Movies_Rating.jpeg)
